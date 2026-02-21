@@ -1,0 +1,7 @@
+flask
+python-dotenv
+google-generativeai
+gtts
+pillow
+requests
+flask-cors
